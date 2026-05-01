@@ -2,14 +2,7 @@
 
 
 
-  <video src="https://github.com/user-attachments/assets/ae15bcb0-b069-457f-a445-9f88e3bdf74f" 
-         width="100%" 
-         autoplay 
-         loop 
-         muted 
-         playsinline 
-         style="pointer-events: none;">
-  </video>
+   <img width="1322" height="661" alt="SFUADKHAN" src="https://github.com/user-attachments/assets/a40dc717-bc1a-4a02-8090-d1d22ceaf516" />
 
 <!--
 **SFuadkhan/SFuadkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
