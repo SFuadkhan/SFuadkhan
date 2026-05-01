@@ -1,7 +1,7 @@
 
 
 
-<div align="center">
+
   <video src="YOUR_VIDEO_URL_HERE" 
          width="100%" 
          autoplay 
@@ -10,7 +10,7 @@
          playsinline 
          style="pointer-events: none;">
   </video>
-</div>
+
 <!--
 **SFuadkhan/SFuadkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
