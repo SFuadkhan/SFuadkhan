@@ -1,9 +1,16 @@
 
 
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/21bdebc1-0991-49ba-b3a3-d15d89a3b197" width="100%" autoplay loop muted playsinline></video>
-</p>
+<div align="center">
+  <video src="YOUR_VIDEO_URL_HERE" 
+         width="100%" 
+         autoplay 
+         loop 
+         muted 
+         playsinline 
+         style="pointer-events: none;">
+  </video>
+</div>
 <!--
 **SFuadkhan/SFuadkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
