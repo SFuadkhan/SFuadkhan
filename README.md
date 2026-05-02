@@ -21,7 +21,6 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Full-time student and aspiring developer based in Baku.
-- 💻 Specialized in Frontend and Fullstack development (React, Vite, Node.js).
-- 🏆 Passionate about Competitive Programming and ICPC training.
-- 🎮 Enjoying high-performance gaming on my Ryzen 9 & RTX 5070 setup.
+- I’m a full-stack developer with a passion for mastering systems end-to-end. 
+- Based in Baku, I’ve delivered scalable web applications using React, Node.js, and Express, along with strong expertise in Python and Java. 
+- I’m driven not just by code, but by delivering solutions that solve real business challenges and scale effectively
