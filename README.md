@@ -22,5 +22,5 @@
 
 ### 🚀 About Me
 - I’m a full-stack developer with a passion for mastering systems end-to-end. 
-- Based in Baku, I’ve delivered scalable web applications using React, Node.js, and Express, along with strong expertise in Python and Java. 
+- Based in Baku, I’ve delivered scalable web applications using React, Node.js, and Express, along with advanced expertise in Python and Java. 
 - I’m driven not just by code, but by delivering solutions that solve real business challenges and scale effectively
